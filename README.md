@@ -24,7 +24,7 @@ given to you by the analytics team from Sparkify to create the results.
 1. event_data: folder containing 30 event data files
 2. images: containing a snapshot of the event_data_file_new.csv file and query results 
 3. Project_1B_ Project_Template.ipynb: pyhton file that Extracts data from data file, Transfer and Load data using Apache Cassandra
-4.event_data_file_new.csv: file generated using Project_1B_ Project_Template.ipynb to hold all data in seperate events files
+4. event_data_file_new.csv: file generated using Project_1B_ Project_Template.ipynb to hold all data in seperate events files
    
 ## Results of Queries<a name="results"></a>
 
